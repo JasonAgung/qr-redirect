@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://google.com",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeojKRhh0N-pUsMrB5STZFeieDH8_sHWmrZOOwiV8Wb4D8itQ/viewform?usp=header",
       "permanent": false
     }
   ]
